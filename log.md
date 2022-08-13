@@ -22,4 +22,12 @@
 
 **Thoughts:** Learned about hexcodes and hsl codes.
 
-**Link to work:**[](Html and Css files for the projects have been commited under Day1 Folder)
+**Link to work:** Html and Css files for the projects have been commited under Day1 Folder
+
+### Day 2: August 13, 2022
+
+**Today's Progress:** Registration Form
+
+**Thoughts:** Learned some CSS tricks for forms. This was quite informative exercise.
+
+**Link to work:** Html and Css files for the projects have been commited under Day2 Folder
