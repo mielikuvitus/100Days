@@ -10,13 +10,23 @@
 
 ---
 
+### Day 4: August 15, 2022
+
+**Today's Progress:** Building a Rothko Painting & A cat photo gallery
+
+**Thoughts:** This was mainly more routine for my css skills, but I learned some new css properties. Gap, ::after pseudo element.
+
+**Link to work:** Html and Css files for the projects have been commited under Day4 Folder
+
+---
+
 ### Day 3: August 14, 2022
 
 **Today's Progress:** Certification Project - Survey Form
 
 **Thoughts:** Was good to repeat what I had been working on the last few days. Seems I didn't have energy to use to style the survey better so that'll do.
 
-**Link to work:**Html and Css files for the projects have been commited under Day3 Folder
+**Link to work:** Html and Css files for the projects have been commited under Day3 Folder
 
 ---
 
