@@ -10,6 +10,16 @@
 
 ---
 
+### Day 5: August 16, 2022
+
+**Today's Progress:** Nutritional label
+
+**Thoughts:** Learned some more CSS tricks
+
+**Link to work:** Html and Css files for the projects have been commited under Day5 Folder
+
+---
+
 ### Day 4: August 15, 2022
 
 **Today's Progress:** Building a Rothko Painting & A cat photo gallery
