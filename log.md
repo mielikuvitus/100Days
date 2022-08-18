@@ -10,6 +10,26 @@
 
 ---
 
+### Day 7: August 18, 2022
+
+**Today's Progress:** Accessibility through a quiz form 1/2 WIP Step 18
+
+**Thoughts:** CSS min() and max() plus web accessibility considerations
+
+**Link to work:** Html and Css files for the projects have been commited under Day7 Folder
+
+---
+
+### Day 6: August 17, 2022
+
+**Today's Progress:** skipped due to a work event
+
+**Thoughts:** -
+
+**Link to work:** -
+
+---
+
 ### Day 5: August 16, 2022
 
 **Today's Progress:** Nutritional label
